@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  React, React-native, MERN Stack, etc.<br>🌱 I’m currently learning React-Native.<br>💬 Ask me about React-native, JavaScript, etc.<br>⚡ Fun fact "Debugging: being the detective in a crime movie where you are also the murderer".
+🔭 I’m currently working on  React, React-native, MERN Stack, etc.<br>🌱 I’m currently learning React-Native.<br>💬 Ask me about React, React-native, JavaScript, etc.<br>⚡ Fun fact "Debugging: being the detective in a crime movie where you are also the murderer".
 
 
 ## 🌐 Socials:
