@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ayush%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">🚀 React Native & Frontend Developer</h3>
+<h3 align="center">🚀 Full Stack Mobile and Web Developer</h3>
 <p align="center">
   Building high-performance mobile & web experiences
 </p>
@@ -12,9 +12,9 @@
 
 ## 👋 About Me
 
-- 💼 **React Native Developer** with **3+ years** of production experience  
+- 💼 **Full Stack Developer** with **3+ years** of production experience  
 - 📱 Building & shipping apps for **iOS & Android** using **React Native + TypeScript**
-- ⚛️ Strong in **React, Redux/Zustand, REST APIs, Firebase**
+- ⚛️ Strong in **React, Redux/Zustand, REST APIs, Firebase, Node, Express, MongodB**
 - 🚀 Focused on **performance, scalability & clean architecture**
 - 🤖 Daily user of **AI tools** (Copilot, ChatGPT, Cursor) to boost delivery speed
 - ⚡ Fun fact: *Debugging is being the detective and the culprit at the same time*
